@@ -10,7 +10,7 @@ for(let i = 0; i < 10; i++){
 }
 
 console.log(array)
---------
+
 Saída: Array com 10 números começamdo do 1 até 10
 (Output: Array with 10 numbers starting from 1 to 10).
 

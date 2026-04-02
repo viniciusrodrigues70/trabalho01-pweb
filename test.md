@@ -2,7 +2,7 @@ Hi, my name's Alefe and this is my branch. This branch is for the work that teac
 
 Isto é uma simulação de código Javascript
 (This is a JavaScript simulation Code) :
-
+--------
 let array = []
 
 for(let i = 0; i < 10; i++){ 
@@ -10,7 +10,7 @@ for(let i = 0; i < 10; i++){
 }
 
 console.log(array)
-
+--------
 Saída: Array com 10 números começamdo do 1 até 10
 (Output: Array with 10 numbers starting from 1 to 10).
 

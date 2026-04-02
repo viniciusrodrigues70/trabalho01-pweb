@@ -16,5 +16,9 @@ Cada integrante desenvolveu um arquivo individual em sua própria branch, conten
 - GitHub
 - Markdown
 
+## 🔄 Fluxo de trabalho
+
+Cada integrante criou sua própria branch, realizou commits individuais e, posteriormente, integrou suas alterações ao branch principal (main) por meio de Pull Requests e Merge.
+
 ## 📅 Prazo
 02/04/2026

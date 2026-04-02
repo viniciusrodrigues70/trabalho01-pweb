@@ -5,11 +5,14 @@ Isto é uma simulação de código Javascript
 --------
 let array = []
 
-for(let i = 0; i < 10; i++){ 
+for(let i = 0; i < 10; i++){
+
   array.push(i + 1)
+  
 }
 
 console.log(array)
+
 
 
 Saída: Array com 10 números começamdo do 1 até 10

@@ -1,4 +1,4 @@
-# Vinícius Rodrigues
+# Vinícius Rodrigues da Silva
 
 ## Sobre mim
 Sou estudante do Instituto Federal de Alagoas (IFAL), com grande interesse na área de tecnologia, especialmente em programação e desenvolvimento de software. Busco constantemente evoluir meus conhecimentos em linguagens como Python e JavaScript, com foco no meu crescimento acadêmico e profissional.
